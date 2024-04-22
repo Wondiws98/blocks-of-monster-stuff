@@ -1,0 +1,6 @@
+// 1.20.4	2024-04-22T15:15:17.592531	Blocks of Monster Stuff/Tags for minecraft:block
+7e3071c1b0bcf4ea740983d3fcf1286bbfb88919 data\blocks_of_monster_stuff\tags\blocks\gunpowder_igniters.json
+a4b62913d5693681188709b0ee9d12a02d67ccdf data\minecraft\tags\blocks\sword_efficient.json
+e4d635eb87f11e1fc4b23a4863a000d3ec29e0e1 data\minecraft\tags\blocks\mineable\pickaxe.json
+fee2c1d9c641cef11dcd85f16d89e4926b81e807 data\minecraft\tags\blocks\mineable\shovel.json
+a4b62913d5693681188709b0ee9d12a02d67ccdf data\minecraft\tags\blocks\mineable\hoe.json

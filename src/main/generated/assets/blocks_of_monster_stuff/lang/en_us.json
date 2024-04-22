@@ -1,0 +1,10 @@
+{
+  "block.blocks_of_monster_stuff.blaze_block": "Block of Blaze",
+  "block.blocks_of_monster_stuff.bone_pile": "Pile of Bones",
+  "block.blocks_of_monster_stuff.ender_block": "Block of Ender",
+  "block.blocks_of_monster_stuff.giant_spider_eye": "Giant Spider Eye",
+  "block.blocks_of_monster_stuff.gunpowder_block": "Block of Gunpowder",
+  "block.blocks_of_monster_stuff.rotten_flesh_block": "Block of Rotten Flesh",
+  "block.blocks_of_monster_stuff.string_roll": "Roll of String",
+  "itemgroup.blocks_of_monster_stuff": "Blocks of Monster Stuff"
+}

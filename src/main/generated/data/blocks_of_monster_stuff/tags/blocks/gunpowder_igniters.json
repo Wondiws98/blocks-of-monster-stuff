@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "blocks_of_monster_stuff:blaze_block",
+    "minecraft:magma_block",
+    "minecraft:lava",
+    "#minecraft:fire",
+    "#minecraft:campfires"
+  ]
+}

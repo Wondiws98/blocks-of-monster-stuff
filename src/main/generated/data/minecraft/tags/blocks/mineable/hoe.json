@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "blocks_of_monster_stuff:string_roll",
+    "blocks_of_monster_stuff:rotten_flesh_block",
+    "blocks_of_monster_stuff:giant_spider_eye"
+  ]
+}

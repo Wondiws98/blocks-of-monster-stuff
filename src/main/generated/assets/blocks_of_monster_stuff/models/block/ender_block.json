@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "blocks_of_monster_stuff:block/ender_block"
+  }
+}

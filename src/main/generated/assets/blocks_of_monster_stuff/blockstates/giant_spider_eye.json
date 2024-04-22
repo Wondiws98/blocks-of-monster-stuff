@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "blocks_of_monster_stuff:block/giant_spider_eye",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "blocks_of_monster_stuff:block/giant_spider_eye"
+    },
+    "facing=south": {
+      "model": "blocks_of_monster_stuff:block/giant_spider_eye",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "blocks_of_monster_stuff:block/giant_spider_eye",
+      "y": 270
+    }
+  }
+}

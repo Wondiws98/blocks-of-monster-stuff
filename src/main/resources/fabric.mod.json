@@ -1,0 +1,45 @@
+{
+	"schemaVersion": 1,
+	"id": "blocks_of_monster_stuff",
+	"version": "1.0.0-mc1.20.3-1.20.4",
+	"name": "Blocks of Monster Stuff",
+	"description": "Part 1 of the Blocks of Stuff series. Adds Blocks made out of Monster Stuff.",
+	"authors": [
+		"Wondiws98"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/user/Wondiws98",
+		"sources": "https://github.com/Wondiws98/blocks-of-monster-stuff",
+		"issues": "https://github.com/Wondiws98/blocks-of-monster-stuff/issues"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.modrinth": "https://modrinth.com/user/Wondiws98"
+			}
+		}
+	},
+	"license": "MIT",
+	"icon": "assets/blocks_of_monster_stuff/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.wondiws98.blocksofmonsterstuff.BlocksOfMonsterStuffMain"
+		],
+		"client": [
+			"net.wondiws98.blocksofmonsterstuff.BlocksOfMonsterStuffClient"
+		],
+		"fabric-datagen": [
+			"net.wondiws98.blocksofmonsterstuff.BlocksOfMonsterStuffDataGenerator"
+		]
+	},
+	"mixins": [
+		"blocksofmonsterstuff.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": ">=1.20.3",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

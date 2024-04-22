@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "blocks_of_monster_stuff:string_roll"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "minecraft:string"
+  }
+}

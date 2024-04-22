@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "blocks_of_monster_stuff:block/string_roll_top",
+    "side": "blocks_of_monster_stuff:block/string_roll_side"
+  }
+}

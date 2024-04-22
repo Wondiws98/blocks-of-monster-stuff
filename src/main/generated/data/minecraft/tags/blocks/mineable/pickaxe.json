@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "blocks_of_monster_stuff:blaze_block",
+    "blocks_of_monster_stuff:ender_block",
+    "blocks_of_monster_stuff:bone_pile"
+  ]
+}

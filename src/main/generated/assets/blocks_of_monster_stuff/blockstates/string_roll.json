@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blocks_of_monster_stuff:block/string_roll"
+    },
+    "type=double": {
+      "model": "blocks_of_monster_stuff:block/string_roll_side"
+    },
+    "type=top": {
+      "model": "blocks_of_monster_stuff:block/string_roll_top"
+    }
+  }
+}
